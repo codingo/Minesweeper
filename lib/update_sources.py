@@ -3,9 +3,8 @@
 from download_file import download_file
 
 # to be updated later for the processing of additional lists
-SOURCEFILE = 'https://github.com/ZeroDot1/CoinBlockerLists/blob/master/list.txt'
-DESTINATION = 'sources.txt'
-print(SOURCEFILE)
+SOURCEFILE = 'https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list.txt'
+DESTINATION = './sources.txt'
 
 
 def print_banner():                                          
@@ -17,15 +16,14 @@ def print_banner():
     print(" Authored by @codingo_")
 
 
-
-def update_sources():
-    print('[-] Downloading and writing sources.txt file...')
-    download_file(SOURCEFILE, DESTINATION)
-
-
+def update_sources(source, destination):
+    print('[-] Downloading source file...')
+    download_file(source, destination)
+    print('[+] Successfully downloaded and wrote local sources')
 
 def main():
     print_banner()
+    update_sources(SOURCEFILE, DESTINATION)
     
 
 main()
