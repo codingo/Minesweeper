@@ -57,7 +57,7 @@ class BurpExtender(IBurpExtender, IScannerCheck):
                     baseRequestResponse.getHttpService(),
                     self._helpers.analyzeRequest(baseRequestResponse).getUrl(),
                     [self._callbacks.applyMarkers(baseRequestResponse, None, matches)],
-                    "Minesweeper",
+                    "Crypto Mining Include",
                     "Scripts were included from the following domain: " + source,
                     "The included scripts could be used to perform crypto currency mining on the machine of visitors coming to your site.",
                     "Avoid using scripts from this source.",
