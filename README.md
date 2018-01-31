@@ -12,6 +12,8 @@ Minesweeper will passively scan in-scope items looking for matches against more 
 ![Minesweeper Alert](https://github.com/codingo/codingo.github.io/blob/master/assets/MinesweeperExampleRequest.PNG)
 
 # Manually Updating Sources
+As this is the first build of Minesweeper lists are currently built based on [CinBlockerLists](https://github.com/ZeroDot1/CoinBlockerLists). As the project matures more sources will be added, as well as direct code checks. Since CoinBlockerLists updates quite frequently code is included to allow you to manually update your source list from the CoinBlockerLists github project.
+
 If you don't wish to wait for the next build of the plugin and want to update your own sources you can use the following in the root of your cloned project:
 
 ```bash
