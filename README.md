@@ -4,7 +4,7 @@
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
 
-A Burpsuite plugin to aid in the detection of malicious crypto currency mining Scripts (cryptojacking).
+A Burpsuite plugin (BApp) to aid in the detection of over 3000 malicious crypto currency mining scripts (cryptojacking).
 
 # Summary
 Minesweeper will passively scan in-scope items looking for matches against more than 3000 known cryptojacking domains within the source of pages. When discovered, an alert similar to the following will be raised:
