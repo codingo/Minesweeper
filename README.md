@@ -5,3 +5,8 @@
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
 
 A Burpsuite plugin to aid in the detection of malicious crypto currency mining Scripts (cryptojacking).
+
+# Sumnmary
+Minesweeper will passively scan in-scope items looking for matches against more than 3000 known cryptojacking domains within the source of pages. When discovered, an alert similar to the following will be raised:
+
+![Minesweeper Alert](https://github.com/codingo/codingo.github.io/blob/master/assets/MinesweeperExampleRequest.PNG)
