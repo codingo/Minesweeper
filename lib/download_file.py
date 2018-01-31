@@ -12,3 +12,4 @@ def download_file(source, destination):
     except urllib.error.URLError:
         print('URLError: An error occured trying to download the file. \
                 Please check the source and try again.')
+
