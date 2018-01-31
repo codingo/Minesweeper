@@ -1,6 +1,7 @@
 # Checks for the presence of Crypto Currency mining scripts
 # Written by Michael Skelton of NCC Group
-# Forked with permission from session-tracking-checks.py by Brett Gervasoni of NCC Group
+# Forked with permission from session-tracking-checks.py
+# by Brett Gervasoni of NCC Group
 
 from burp import IBurpExtender
 from burp import IScannerCheck
@@ -10,6 +11,7 @@ from array import array
 SOURCES = './lib/sources.txt'
 f = open(SOURCES)
 sources = f.readlines()
+
 
 class BurpExtender(IBurpExtender, IScannerCheck):
 
@@ -27,7 +29,8 @@ class BurpExtender(IBurpExtender, IScannerCheck):
         # register ourselves as a custom scanner check
         callbacks.registerScannerCheck(self)
 
-    # helper method to search a response for occurrences of a literal match string
+    # helper method to search a response for occurrences
+    # of a literal match string
     # and return a list of start/end offsets
     def _get_matches(self, response, match):
         matches = []
@@ -50,24 +53,26 @@ class BurpExtender(IBurpExtender, IScannerCheck):
         # check for matches
         matches = []
         for source in sources:
-            matches = self._get_matches(baseRequestResponse.getResponse(), self._helpers.stringToBytes(source))
+            matches = self._get_matches(baseRequestResponse.getResponse(),
+                                        self._helpers.stringToBytes(source))
 
             if len(matches) > 0:
                 issues.append(CustomScanIssue(
                     baseRequestResponse.getHttpService(),
                     self._helpers.analyzeRequest(baseRequestResponse).getUrl(),
-                    [self._callbacks.applyMarkers(baseRequestResponse, None, matches)],
+                    [self._callbacks.applyMarkers(baseRequestResponse,
+                                                  None, matches)],
                     "Crypto Mining Include",
                     "Scripts were included from the following domain: " + source,
                     "The included scripts could be used to perform crypto currency mining on the machine of visitors coming to your site.",
                     "Avoid using scripts from this source.",
-                    "High", 
+                    "High",
                     "Firm"))
 
         if (len(issues) == 0):
             return None
 
-        #print("Found - "+str(self._helpers.analyzeRequest(baseRequestResponse).getUrl()))
+        # print("Found - "+str(self._helpers.analyzeRequest(baseRequestResponse).getUrl()))
 
         return issues
 
@@ -77,8 +82,10 @@ class BurpExtender(IBurpExtender, IScannerCheck):
 
         return 0
 
+
 class CustomScanIssue (IScanIssue):
-    def __init__(self, httpService, url, httpMessages, name, detail, background, remediationBackground, severity, confidence):
+    def __init__(self, httpService, url, httpMessages, name, detail,
+                 background, remediationBackground, severity, confidence):
         self._httpService = httpService
         self._url = url
         self._httpMessages = httpMessages
