@@ -9,7 +9,7 @@ A Burpsuite plugin (BApp) to aid in the detection of over 3000 malicious crypto 
 # Summary
 Minesweeper will passively scan in-scope items looking for matches against more than 3000 known cryptojacking domains within the source of pages. When discovered, an alert similar to the following will be raised:
 
-![Minesweeper Alert](https://github.com/codingo/codingo.github.io/blob/master/assets/MinesweeperExampleRequest.PNG)
+![Minesweeper Alert](https://github.com/codingo/codingo.github.io/blob/master/assets/minesweeper_example_request.png)
 
 # Manually Updating Sources
 As this is the first build of Minesweeper lists are currently built based on [CoinBlockerLists](https://github.com/ZeroDot1/CoinBlockerLists). As the project matures more sources will be added, as well as direct code checks. Since CoinBlockerLists updates quite frequently code is included to allow you to manually update your source list from the CoinBlockerLists github project.
