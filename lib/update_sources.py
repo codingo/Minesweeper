@@ -3,8 +3,7 @@
 from download_file import download_file
 
 # to be updated later for the processing of additional lists
-SOURCEFILE = 'https://raw.githubusercontent.com/ZeroDot1/\
-              CoinBlockerLists/master/list.txt'
+SOURCEFILE = 'https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list.txt'
 DESTINATION = './sources.txt'
 
 
