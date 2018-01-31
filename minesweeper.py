@@ -1,7 +1,7 @@
 # Checks for the presence of Crypto Currency mining scripts
 # Written by Michael Skelton of NCC Group
 # Forked with permission from session-tracking-checks.py
-# by Brett Gervasoni of NCC Group
+# which was authored by Brett Gervasoni of NCC Group
 
 from burp import IBurpExtender
 from burp import IScannerCheck
