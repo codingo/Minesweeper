@@ -62,10 +62,10 @@ class BurpExtender(IBurpExtender, IScannerCheck):
                     self._helpers.analyzeRequest(baseRequestResponse).getUrl(),
                     [self._callbacks.applyMarkers(baseRequestResponse,
                                                   None, matches)],
-                    "Crypto Mining Include",
-                    "Scripts were included from the following domain: " + source,
-                    "The included scripts could be used to perform crypto currency mining on the machine of visitors coming to your site.",
-                    "Avoid using scripts from this source.",
+                    "Cryptocurrency mining script detected (cryptojacking)",
+                    "Scripts were included from the following cryptocurrency mining domain: " + source,
+                    "The web browsers of visitors to the website could be used to mine cryptocurrency without their knowledge.",
+                    "Avoid using scripts from cryptocurrency mining domains. Cryptocurrency mining scripts are often added to a web page during a website compromise. Investigate whether unauthorised changes have been made to the web application.",
                     "High",
                     "Firm"))
 
