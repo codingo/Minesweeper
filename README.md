@@ -6,7 +6,18 @@
 
 A Burpsuite plugin to aid in the detection of malicious crypto currency mining Scripts (cryptojacking).
 
-# Sumnmary
+# Summary
 Minesweeper will passively scan in-scope items looking for matches against more than 3000 known cryptojacking domains within the source of pages. When discovered, an alert similar to the following will be raised:
 
 ![Minesweeper Alert](https://github.com/codingo/codingo.github.io/blob/master/assets/MinesweeperExampleRequest.PNG)
+
+# Manually Updating Sources
+If you don't wish to wait for the next build of the plugin and want to update your own sources you can use the following in the root of your cloned project:
+
+```bash
+$ ./lib/update_sources.py
+```
+
+This should produce an output similar to the following on a successful update:
+
+![Minesweeper Update](https://github.com/codingo/codingo.github.io/blob/master/assets/minesweeper_sources_update.png)
