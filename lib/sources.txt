@@ -18,6 +18,8 @@
 3d0cb547.space
 50bots.nullrefexcep.com
 5vz3cfs0yd.me
+64.mymyxmra.ru
+64.myxmr.pw
 64uq73u7ug.webcam
 6ow9rhxtolls.gq
 6tsbe1zs.me
@@ -150,6 +152,7 @@ api.viaxmr.com
 api.xmr.mypool.online
 api.xmr.spacepools.org
 api.xmrpool.net
+api.xmrpool.xyz
 api.youbit.co.kr
 api.zec.spacepools.org
 api01.ledgerwallet.com
@@ -235,6 +238,7 @@ befirstcdn.com
 bella.suprnova.cc
 berserkpl.net.pl
 bestETNpool.com
+bestxmrpool.com
 bet.webcoin.us
 beta-mining.bitcoin.cz
 beta.bitfinex.com
@@ -587,6 +591,7 @@ cvp6.asvoxod.ru
 cvp7.asvoxod.ru
 cvp8.asvoxod.ru
 cwsa.minergate.com
+cyg2016.xyz
 d1.eth.pp.ua
 d1e1rbybdt265x.cloudfront.net
 d3ahinqqx1dy5v.cloudfront.net
@@ -708,6 +713,11 @@ doubleclick3.xyz
 doubleclick4.xyz
 doubleclick5.xyz
 doubleclick6.xyz
+down.down0116.info
+down.my0115.ru
+down.my0709.xyz
+down.mys2016.info
+down.oo000oo.club
 download.minergate.com
 downloads.getmonero.org
 drk.ghash.io
@@ -1029,7 +1039,10 @@ ftp.coinlab.biz
 ftp.crypto-coins.club
 ftp.cryptominingpool.eu
 ftp.deltapool.net
+ftp.ftp0118.info
 ftp.miningspeed.com
+ftp.oo000oo.me
+ftp.ruisgood.ru
 ftp.tugae2.com
 full.pr0gramm.com
 fwl.bitcoin.cz
@@ -1227,6 +1240,8 @@ jquery-uim.download
 jquerystatistics.org
 jroqvbvw.info
 js.coinhive.com
+js.my0115.ru
+js.mys2016.info
 jsccnn.com
 jscdndel.com
 jsecoin.com
@@ -1456,6 +1471,8 @@ minero-proxy-01.now.sh
 minero-proxy-02.now.sh
 minero-proxy-03.now.sh
 minero.pw
+miners.pro
+minersisland.com
 minexmr.com
 minexmr.pooldd.com
 minez.zone
@@ -1490,6 +1507,7 @@ mnt.extremepool.org
 mobile-mining.com
 mobile.bitcoin.cz
 mobile.btcchina.com
+mobile.live-signin.com
 mona-api.suprnova.cc
 monacoin.miningpoolhub.com
 moneone.ga
@@ -1504,8 +1522,10 @@ monero.farm
 monero.hashvault.pro
 monero.lindon-pool.win
 monero.miner.center
+monero.miners.pro
 monero.miningpoolhub.com
 monero.mmpool.org
+monero.org
 monero.riefly.id
 monero.tugae2.com
 monero.us.to
@@ -1516,6 +1536,7 @@ monerominers.net
 moneroocean.stream
 moneropool.com
 moneropool.phoenix.dj
+moneropool.ru
 monetaryunit.miningpoolhub.com
 monitor.antpool.com
 monitor.cryptopay.me
@@ -1605,6 +1626,7 @@ myeytherwallet.info
 myfhology.sbhmn-miner.com
 myfreebitcoin.com
 mykings.top
+mykings.top.info
 mypool.name
 mypool.online
 myrgrs.suprnova.cc
@@ -1817,6 +1839,7 @@ pool.intense.hashvault.pro
 pool.kosmoplovci.org
 pool.minemonero.pro
 pool.miners.pro
+pool.minersisland.com
 pool.minexmr.com
 pool.miningspeed.com
 pool.ml
@@ -1885,6 +1908,7 @@ public.deltapool.net
 public.poloniex.com
 public.sandbox.exchange.coinbase.com
 publicvm.com
+pubyun.com
 pumpmywallet.com
 pure.suprnova.cc
 push.coinone.co.kr
@@ -1905,6 +1929,7 @@ qtl.suprnova.cc
 qtum.changelly.com
 quark.miningpoolhub.com
 quazar.miner.center
+qyvtls749tio.com
 r8nu86wg.me
 ra.mining.eligius.st
 rain.suprnova.cc
@@ -2422,6 +2447,10 @@ wiki.bitfinex.com
 willacrit.com
 witkom.sbhmn-miner.com
 witthethim.com
+wmi.my0115.ru
+wmi.my0709.xyz
+wmi.mykings.top.info
+wmi.oo000oo.club
 wo15.coinhive.com
 wood.suprnova.cc
 woork.sbhmn-miner.com
@@ -3045,6 +3074,7 @@ xmr-us-west1.nanopool.org
 xmr-us.suprnova.cc
 xmr-usa.dwarfpool.com
 xmr.-eu1.nanopool.org
+xmr.5b6b7b.ru
 xmr.alimabi.cn
 xmr.bohemianpool.com
 xmr.coinlab.biz
@@ -3068,9 +3098,11 @@ xmr.pool.minergate.com
 xmr.pools.e-scavo.net.ar
 xmr.poolto.be
 xmr.prohash.net
+xmr.pt
 xmr.riefly.id
 xmr.suprnova.cc
 xmr.teracycle.net
+xmr.xmr5b.ru
 xmr1.crypto-pool.fr
 xmr10.crypto-pool.fr
 xmr3.crypto-pool.fr
@@ -3090,6 +3122,7 @@ xmrminingproxy.com
 xmrpool.de
 xmrpool.eu
 xmrpool.net
+xmrpool.xyz
 xmrtest.poolto.be
 xn--blckchin-5za9o.info
 xn--blkhain-m0a4pb.info
@@ -3132,6 +3165,7 @@ yiimp.mypool.online
 yobit.net
 youbit.co.kr
 youporn.sexy
+youronionlink.onion
 ypool.net
 yuyyio.com
 z.cash
