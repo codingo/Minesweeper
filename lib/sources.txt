@@ -121,6 +121,7 @@ api.exchange.coinbase.com
 api.exp.mypool.online
 api.hitbtc.com
 api.intense.hashvault.pro
+api.inwemo.com
 api.l33tsite.info
 api.ledgerwallet.com
 api.minemonero.pro
@@ -419,6 +420,7 @@ cdn.cookiescript.info
 cdn.hashcoin.co
 cdn.hashflare.io
 cdn.jquery-uim.download
+cdn.minescripts.info
 cdn.rocks.io
 cdn.rove.cl
 cdn.static-cnt.bid
@@ -471,6 +473,7 @@ coihive.com
 coin-have.com
 coin-hive-proxy-ybydcnjgkl.now.sh
 coin-hive.com
+coin-service.com
 coinbase.com
 coinbin.org
 coinblind.com
@@ -592,6 +595,7 @@ cvp7.asvoxod.ru
 cvp8.asvoxod.ru
 cwsa.minergate.com
 cyg2016.xyz
+d.cpufan.club
 d1.eth.pp.ua
 d1e1rbybdt265x.cloudfront.net
 d3ahinqqx1dy5v.cloudfront.net
@@ -1027,6 +1031,7 @@ freecontent.loan
 freecontent.net
 freecontent.racing
 freedom.wemineltc.com
+freshrefresher.com
 friendshipcoin.miningpoolhub.com
 front-stage.hashflare.io
 front.hashflare.io
@@ -1135,6 +1140,7 @@ hashto.cash
 hashunited.com
 hashvault.pro
 hashzone.io
+hatcalter.com
 hatevery.info
 hegrinhar.com
 help.bitpay.com
@@ -1201,6 +1207,7 @@ ingorob.com
 insdrbot.com
 insight.bitcore.io
 insight.bitpay.com
+intactoffers.club
 integration.graft.network
 intense.hashvault.pro
 internal.poloniex.com
@@ -1473,6 +1480,7 @@ minero-proxy-03.now.sh
 minero.pw
 miners.pro
 minersisland.com
+minescripts.info
 minexmr.com
 minexmr.pooldd.com
 minez.zone
@@ -1659,6 +1667,7 @@ news.dogecoin.dog
 newsupport.prohashing.com
 next.bitcore.io
 nextcloud.coinfirm.io
+nfwebminer.com
 nicehash.com
 nidscom.io
 night-pool.de
@@ -1671,6 +1680,7 @@ nnc.mypool.name
 nnc.mypool.online
 nnyetlherwallet.com
 noblock.pro
+node.cfcdist.gdn
 node.supportxmr.com
 node.viaxmr.com
 node1.mycelium.com
@@ -1949,9 +1959,11 @@ reliablesurfingext.biz
 rencohep.com
 renhertfo.com
 repo.getmonero.org
+reservedoffers.club
 rest.minergate.com
 retadint.com
 rineventrec.com
+rintindown.com
 rnyethervailet.com
 rnyethervaliet.com
 rnyethierwaliet.com
@@ -2223,6 +2235,7 @@ sys.poolto.be
 taiga.getmonero.org
 talk.multiminerapp.com
 tazm9p7tso.trade
+techhome-js.github.io
 temp.poloniex.com
 templates.qp.si
 teracycle.net
@@ -2904,6 +2917,7 @@ www.forum.bitcore.io
 www.forum.minergate.com
 www.forum.z.cash
 www.freebitco.in
+www.freecontent.bid
 www.gbminers.com
 www.genesis-mining.com
 www.getmonero.org
@@ -2958,10 +2972,12 @@ www.monero.crypto-webminer.com
 www.monerominer.rocks
 www.moneroocean.stream
 www.moneropool.com
+www.monkeyminer.net
 www.moonbit.co.in
 www.moriaxmr.com
 www.multiminerapp.com
 www.multipool.us
+www.mutuza.win
 www.myfreebitcoin.com
 www.nanopool.org
 www.nicehash.com
@@ -2992,6 +3008,7 @@ www.sbhmn-miner.com
 www.search.bitaccess.co
 www.secumine.net
 www.slushpool.com
+www.sparechange.io
 www.staging.btcchina.com
 www.sumokoin.com
 www.sumokoin.crypto-webminer.com
@@ -3088,6 +3105,7 @@ xmr.lindon-pool.win
 xmr.minecraftpool.com
 xmr.miner.center
 xmr.minerhills.com
+xmr.mining.best
 xmr.miningspeed.com
 xmr.mixpools.org
 xmr.mypool.name
