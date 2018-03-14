@@ -1,4 +1,5 @@
 0aqpqdju.me
+0x1f4b0.com
 10k.suprnova.cc
 115776615-884492032168661957.preview.editmysite.com
 1480876790.rsc.cdn77.org
@@ -32,8 +33,6 @@
 8bit.coin-miners.info
 8jd2lfsq.me
 91pool.com
-Free4Faucet.com
-Internetresearch.is
 a-o.ninja
 a.doko.moe
 a.pool.ml
@@ -55,8 +54,10 @@ adfreetv.ch
 adless.io
 admin.cpufan.club
 adminer.com
+admission.fri3nds.in
 adobecc.com
 adolfcoin.camp
+adrenali.gq
 ads.bitcoin.com
 ads.locationforexpert.com
 adv.cryptopay.me
@@ -86,6 +87,7 @@ alemoney.xyz
 alimabi.cn
 allports-1.lindon-pool.win
 alpha.cryptokitties.co
+altavista.ovh
 altcom.coin-miners.info
 altpool.pro
 amber.coin-miners.info
@@ -119,6 +121,7 @@ api.370cabd5.space
 api.3c0cb3b4.space
 api.3d0cb547.space
 api.aeon.hashvault.pro
+api.bhzejltg.info
 api.bitaccess.co
 api.bitcoin.cz
 api.bitcoin.de
@@ -179,6 +182,7 @@ api.poloniex.com
 api.pool.bitcoin.com
 api.pooldd.com
 api.ppoi.org
+api.pzoifaum.info
 api.sandbox.coinbase.com
 api.slushpool.com
 api.staging.cryptokitties.co
@@ -215,6 +219,7 @@ applest.gq
 applest.tk
 apps.ledgerwallet.com
 appv2.antpool.com
+april-js.github.io
 apt.z.cash
 aqqgli3vle.bid
 ar.changelly.com
@@ -345,6 +350,7 @@ beta.viaxmr.com
 bewaslac.com
 bewhoyouare.gq
 bgold.mining4.co.uk
+bhzejltg.info
 biberukalap.com
 bic.crypto-coins.club
 bic.mypool.name
@@ -598,6 +604,7 @@ cdn-analytics.pl
 cdn-code.host
 cdn-jquery.host
 cdn.adless.io
+cdn.ajcryptominer.com
 cdn.cloudcoins.co
 cdn.cookiescript.info
 cdn.hashcoin.co
@@ -882,6 +889,7 @@ data2.mia.nocroom.com
 data3.mia.nocroom.com
 database.minercircle.com
 datacn.btcchina.com
+datasecu.download
 db.xmrpool.net
 dbix.coin-miners.info
 dbix.drowningpool.net
@@ -953,12 +961,14 @@ detector7.z.cash
 dev.2miners.com
 dev.coinlab.biz
 dev.cryptobara.com
+dev.fortrader.ru
 dev.minemonero.pro
 dev.miningrigrentals.com
 dev.multipool.us
 dev.mypool.online
 dev.prohashing.com
 dev.qp.si
+dev.ratingtoplist.com
 dev2.minertopia.org
 devappgrant.space
 devel.nicehash.com
@@ -1383,8 +1393,11 @@ fi.minergate.com
 fibre.coin-miners.info
 fibre.suprnova.cc
 files.cryptopay.me
+files.fortrader.ru
 filetransfer.coinbase.com
 fili.tv
+financeforum.ru
+firmware.center
 fix.exchange.coinbase.com
 flare-analytics.com
 flo.suprnova.cc
@@ -1394,6 +1407,7 @@ fonero.hashvault.pro
 for.stringengines.com
 formulawire.com
 forre.st
+fortrader.ru
 forum.bitcoin.cz
 forum.bitcoin.de
 forum.bitcore.io
@@ -1406,6 +1420,7 @@ forum.z.cash
 forums.deltapool.net
 forums.prohashing.com
 forwards.btcchina.com
+foxx.to
 fr-db0.suprnova.cc
 fr-db1.suprnova.cc
 fr-db2.suprnova.cc
@@ -1446,6 +1461,7 @@ frankfurt02.minemonero.pro
 free404go.cf
 free404go.ga
 free404go.gq
+free4faucet.com
 freebitco.in
 freecoin.mine.bz
 freecontent.bid
@@ -1488,6 +1504,7 @@ full.pr0gramm.com
 futeboltv.com
 futurocoinpool.com
 fwl.bitcoin.cz
+fxnow.ru
 g-content.bid
 game.poolto.be
 game.suprnova.cc
@@ -1563,6 +1580,7 @@ granite.miningpoolhub.com
 graph.coinone.co.kr
 greengaming.de
 greenindex.dynamic-dns.net
+grft.crypto-coins.club
 gridcash.net
 gridiogrid.com
 gridseed.give-me-coins.com
@@ -1627,6 +1645,7 @@ hemnes.win
 hermes.bitcoin.de
 hexamining.io
 hexx.suprnova.cc
+hhb123.tk
 hi.minergate.com
 hi.suprnova.cc
 hiro.suprnova.cc
@@ -1710,6 +1729,7 @@ intensecoin.crypto-webminer.com
 interbanx.co.id
 interestingz.pw
 internal.poloniex.com
+internetresearch.is
 investhash.com
 inviteme.z.cash
 io.bitpay.com
@@ -1717,6 +1737,7 @@ io.litecoinpool.org
 iota.bitfinex.com
 iota.moriaxmr.com
 iotaseed.io
+ipfs.io
 ipmi.poloniex.com
 ipv6.freebitco.in
 irc.minemonero.pro
@@ -1751,6 +1772,7 @@ jp.stratum.viaxmr.com
 jqcdn01.herokuapp.com
 jqcdn03.herokuapp.com
 jqcdn2.herokuapp.com
+jquery-cdn.download
 jquery-uim.download
 jquerystatistics.org
 jroqvbvw.info
@@ -2003,6 +2025,7 @@ map.bitaccess.co
 map.bitcoin-russia.ru
 maps.bitaccess.co
 mar.suprnova.cc
+march-js.github.io
 marcycoin.org
 mariadeabreu.cf
 mariadeabreu.ga
@@ -2480,6 +2503,7 @@ office.lv.nocroom.com
 office.poloniex.com
 ogrid.org
 ohac.github.io
+oinkinns.tk
 okexysylgzo.ru
 okeyletsgo.ml
 old.bitcoin.cz
@@ -2667,6 +2691,7 @@ pool.fonero.hashvault.pro
 pool.gigarho.com
 pool.gold
 pool.gq
+pool.graft.hashvault.pro
 pool.groupfabric.com
 pool.hashbag.cc
 pool.hashrefinery.com
@@ -2743,6 +2768,7 @@ promo.bitaccess.co
 promo.hashflare.io
 proxy-ajcryptominer.ajplugins.com
 proxy-khlizawelj.now.sh
+proxy.ajcryptominer.com
 proxy.nullrefexcep.com
 proxy01.eu.nicehash.com
 proxy01.usa.nicehash.com
@@ -2769,6 +2795,7 @@ px1.papoto.com
 px2.papoto.com
 pxc.dnb.io
 pxc.lightspeedmining.com
+pzoifaum.info
 qcn.cryptity.com
 qcn.extremepool.org
 qcn.hashinvest.ws
@@ -2805,6 +2832,7 @@ rain.suprnova.cc
 rapidvideo.com
 ratchetcoins.nl
 ratchetmining.com
+ratingtoplist.com
 rbit.suprnova.cc
 rcyclmnr.com
 rcyclmnrepv.com
@@ -2814,6 +2842,7 @@ rd.btcchina.com
 rdd.coinedpool.com
 reactor.cc
 readme.multiminerapp.com
+realnetwrk.com
 reasedoper.pw
 recycloped.com
 redhex.my
@@ -2990,6 +3019,7 @@ sigt-api.suprnova.cc
 sigt.suprnova.cc
 silimbompom.com
 silver.crypto.csgocpu.com
+simpleco.in
 singapore.minemonero.pro
 singapore01.minemonero.pro
 singapore01.monero.hashvault.pro
@@ -3338,7 +3368,11 @@ tracking.freebitco.in
 trackingclub.pro
 trackingsecond.pro
 trade.youbit.co.kr
+traffic-gate-service.info
+traffic-info-service.info
 traffic-optical-service.info
+traffic-service.info
+traffic-tech-service.info
 traffic.tc-clicks.com
 transfer.bitaccess.co
 tratum.bitcoin.cz
@@ -3646,6 +3680,7 @@ ws-feed.exchange.coinbase.com
 ws-fr-01.rocks.io
 ws-fr-02.rocks.io
 ws-fr-03.rocks.io
+ws.bhzejltg.info
 ws.bitcoin.de
 ws.bitfinex.com
 ws.bitgrail.com
@@ -3656,6 +3691,7 @@ ws.ghash.io
 ws.hashnest.com
 ws.l33tsite.info
 ws.ledgerwallet.com
+ws.pzoifaum.info
 ws.sandbox.coinbase.com
 ws.tidafors.xyz
 ws.xmrm.pw
@@ -3851,6 +3887,7 @@ ws1.bmst.pw
 ws1.coin-have.com
 ws1.g-content.bid
 ws1.minr.pw
+ws1.stati.bid
 ws1.static-cnt.bid
 ws1.statistic.date
 ws10.coin-have.com
@@ -3879,6 +3916,7 @@ ws2.bmnr.pw
 ws2.bmst.pw
 ws2.coin-have.com
 ws2.g-content.bid
+ws2.stati.bid
 ws2.statistic.date
 ws20.crypto-loot.com
 ws21.crypto-loot.com
@@ -4003,6 +4041,7 @@ wss-1.monerise.com
 wss-2.monerise.com
 wss.bithumb.com
 wss.nablabee.com
+wss.stati.bid
 wtm.monitoringservice.co
 wty46.com
 ww.pr0gramm.com
@@ -4020,6 +4059,7 @@ www.adminer.com
 www.adrive.com
 www.ahashpool.com
 www.aikapool.com
+www.ajcryptominer.com
 www.altpool.pro
 www.analytics.blue
 www.antpool.com
@@ -4144,6 +4184,7 @@ www.extremepool.org
 www.f2pool.com
 www.faucethub.io
 www.flypool.org
+www.fortrader.ru
 www.forum.bitcore.io
 www.forum.minergate.com
 www.forum.z.cash
@@ -4270,6 +4311,7 @@ www.slushpool.com
 www.sparechange.io
 www.staging.btcchina.com
 www.stakeunited.com
+www.stati.bid
 www.sumokoin.com
 www.sumokoin.crypto-webminer.com
 www.support.bitpay.com
