@@ -9,9 +9,8 @@ from burp import IScanIssue
 from array import array
 
 SOURCES = './lib/sources.txt'
-f = open(SOURCES)
-sources = f.readlines()
-
+with open(SOURCES) as f:
+    sources = [s.strip() for s in f]
 
 class BurpExtender(IBurpExtender, IScannerCheck):
 
@@ -38,7 +37,7 @@ class BurpExtender(IBurpExtender, IScannerCheck):
         reslen = len(response)
         matchlen = len(match)
         while start < reslen:
-            start = self._helpers.indexOf(response, match, True, start, reslen)
+            start = self._helpers.indexOf(response, match, False, start, reslen)
             if start == -1:
                 break
             matches.append(array('i', [start, start + matchlen]))
@@ -52,6 +51,8 @@ class BurpExtender(IBurpExtender, IScannerCheck):
 
         # check for matches
         matches = []
+        print("len(sources) = %d" % len(sources))
+        print("*%s*" % sources[0])
         for source in sources:
             matches = self._get_matches(baseRequestResponse.getResponse(),
                                         self._helpers.stringToBytes(source))
