@@ -7,5 +7,5 @@ SerialVersion: 1
 MinPlatformVersion: 0
 ProOnly: True
 Author: Michael Skelton
-ShortDescription: Detects script includes from over 5700 known cryptojacking domains.
+ShortDescription: Detects script includes from over 6100 known cryptojacking domains.
 EntryPoint: minesweeper.py
