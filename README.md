@@ -1,7 +1,7 @@
 ![Minesweeper Logo](https://github.com/codingo/codingo.github.io/blob/master/assets/minesweeper_banner.png)
 A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from over 6100+ malicious cryptocurrency mining domains (cryptojacking).
 
-[![License](https://img.shields.io/badge/license-GPL3-_red.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![BApp Store](https://img.shields.io/badge/BApp-Published-orange.svg)](https://portswigger.net/bappstore/f317b96ea38b46fab74b13decc7116cc)[![License](https://img.shields.io/badge/license-GPL3-_red.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 [![Python 3.2|3.6](https://img.shields.io/badge/python-3.2|3.6-green.svg)](https://www.python.org/)
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/codingo/Minesweeper/issues)
