@@ -3,7 +3,7 @@ ExtensionType: 2
 Name: Cryptojacking Mine Sweeper
 RepoName: mine-sweeper
 ScreenVersion: 1.0
-SerialVersion: 1
+SerialVersion: 3
 MinPlatformVersion: 0
 ProOnly: True
 Author: Michael Skelton
