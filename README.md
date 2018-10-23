@@ -1,5 +1,5 @@
 ![Minesweeper Logo](https://github.com/codingo/codingo.github.io/blob/master/assets/minesweeper_banner.png)
-A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from over 9200+ malicious cryptocurrency mining domains (cryptojacking).
+A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from over 14000+ malicious cryptocurrency mining domains (cryptojacking).
 
 [![BApp Store](https://img.shields.io/badge/BApp-Published-orange.svg)](https://portswigger.net/bappstore/f317b96ea38b46fab74b13decc7116cc)
 [![License](https://img.shields.io/badge/license-GPL3-_red.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
@@ -9,7 +9,7 @@ A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from o
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
 
 # Summary
-Minesweeper will passively scan in-scope items looking for matches against more than 9200+ known cryptojacking domains within the source of pages. When discovered, an alert similar to the following will be raised:
+Minesweeper will passively scan in-scope items looking for matches against more than 14000+ known cryptojacking domains within the source of pages. When discovered, an alert similar to the following will be raised:
 
 ![Minesweeper Alert](https://github.com/codingo/codingo.github.io/blob/master/assets/minesweeper_example_request.png)
 
